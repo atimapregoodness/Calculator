@@ -1,0 +1,137 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Calibri Light';
+}
+
+body{
+      background-color: #babaff;
+}
+
+.calculator{
+      background-color: #fff;
+      margin: auto;
+      width: 22em;
+      margin-top: 5em;
+      padding: 2em;
+      box-shadow: 0px 0px 15px 2px rgb(17, 17, 17);
+      height: auto;
+      border-radius: 5px;
+
+
+      h4{
+            text-align: center;
+            padding-top: 2em;
+      }
+
+      h5{
+            padding-top: 4em;
+            text-align: center;
+            color: #babaff;
+      }
+
+      h1{
+            text-align: center;
+            color: rgb(23, 65, 65);
+            border: 2px solid #9494c9;
+            border-radius: 5px;
+            background-color: #babaff;
+      }
+
+      #form-one{
+            margin-top: 2em;
+            display: inline-flex;
+            
+            h3{
+                  margin-right: 1em;
+                  padding-top: 0.2em;
+            }
+
+            input{
+                  width: 5em;
+                  height: 2rem;
+                  border-radius:6px;
+                  border: 2px solid rgb(0, 174, 255);
+                  padding: 2px;
+                  margin-right: 1em;
+                  text-align: center;
+            }
+
+            #submit{
+                  width: 2em;
+                  font-size: 20px;
+                  background-color: rgb(0, 174, 255);
+                  border: none;
+                  border-radius: 5px;
+                  cursor: pointer;
+                  margin-right: 1em;
+            }
+      }
+
+      #form-two{
+            margin-top: 2em;
+            display: inline-flex;
+      
+            h3{
+                  margin-right: 1em;
+                  padding-top: 0.2em;
+            }
+
+            input{
+                  width: 5em;
+                  height: 2rem;
+                  border-radius:6px;
+                  border: 2px solid rgb(0, 174, 255);
+                  padding: 2px;
+                  margin-right: 1em;
+                  text-align: center;
+            }
+
+            #submit2{
+                  width: 2em;
+                  font-size: 20px;
+                  background-color: rgb(0, 174, 255);
+                  border: none;
+                  border-radius: 5px;
+                  cursor: pointer;
+                  margin-right: 1em;
+            }
+      }
+
+      #form-three{
+            margin-top: 2em;
+            display: inline-flex;
+            
+            h3{
+                  margin-right: 1em;
+                  padding-top: 0.2em;
+            }
+
+            input{
+                  width: 5em;
+                  height: 2rem;
+                  border-radius:6px;
+                  border: 2px solid rgb(0, 174, 255);
+                  padding: 2px;
+                  margin-right: 1em;
+                  text-align: center;
+            }
+
+            #submit3{
+                  width: 2em;
+                  font-size: 20px;
+                  background-color: rgb(0, 174, 255);
+                  border: none;
+                  border-radius: 5px;
+                  cursor: pointer;
+                  margin-right: 1em;
+            }
+      }
+
+
+
+}
+
+
+
